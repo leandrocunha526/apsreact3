@@ -1,3 +1,3 @@
 # APS 3
 
-![captura de tela](.github/exercicios.png)
+![image](.github/exercicios.png)
