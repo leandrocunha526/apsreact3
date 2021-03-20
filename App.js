@@ -18,7 +18,7 @@ class App extends Component {
           frase:
             "Clique para exibir a frase",
           imagem:
-            "https://cdn.pixabay.com/photo/2013/07/12/15/20/author-149694_960_720.png",
+            "https://i.imgur.com/ssQDB1C.jpg",
         },
         {
           frase: "A vida acontece num equilíbrio entre a alegria e a dor",
