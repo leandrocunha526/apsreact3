@@ -16,9 +16,9 @@ class App extends Component {
       phrase: [
         {
           frase:
-            "Só existem dois motivos pra uma pessoa se preocupar com você: Ou ela te ama muito, ou tem algo que ela queira muito!",
+            "Clique para exibir as frases",
           imagem:
-            "https://static.frasesparaface.com.br/imagem/so/ex/so-existem-dois-motivos-pra-uma-pessoa-se.jpg",
+            "https://cdn.pixabay.com/photo/2013/07/12/15/20/author-149694_960_720.png",
         },
         {
           frase: "A vida acontece num equilíbrio entre a alegria e a dor",
