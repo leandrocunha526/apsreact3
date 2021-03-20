@@ -16,7 +16,7 @@ class App extends Component {
       phrase: [
         {
           frase:
-            "Clique para exibir as frases",
+            "Clique para exibir a frase",
           imagem:
             "https://cdn.pixabay.com/photo/2013/07/12/15/20/author-149694_960_720.png",
         },
